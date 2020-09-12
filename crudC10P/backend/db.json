@@ -1,0 +1,19 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "serviço": "Inserir Número",
+            "preço": 15.0
+        },
+        {
+            "id": 2,
+            "serviço": "Inserir Nome",
+            "preço": 25.0
+        },
+        {
+            "id": 3,
+            "serviço": "Inserir Nome e Número",
+            "preço": 35.0
+        }
+    ]
+}
