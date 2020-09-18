@@ -2,18 +2,18 @@
     "produtos": [
         {
             "id": 1,
-            "serviço": "Inserir Número",
-            "preço": 15.0
+            "name": "Inserir Número",
+            "price": 15.0
         },
         {
             "id": 2,
-            "serviço": "Inserir Nome",
-            "preço": 25.0
+            "name": "Inserir Nome",
+            "price": 25.0
         },
         {
             "id": 3,
-            "serviço": "Inserir Nome e Número",
-            "preço": 35.0
+            "name": "Inserir Nome e Número",
+            "price": 35.0
         }
     ]
 }
