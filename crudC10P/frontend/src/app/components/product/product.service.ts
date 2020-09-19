@@ -1,15 +1,15 @@
 import { Product } from './product.model';
-import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { Observable } from 'rxjs';
+import { HttpClient } from '@angular/common/http';
 
 @Injectable({
   providedIn: 'root'
 })
 export class ProductService {
 
-  baseUrl = "http://localhost:3001"
+  baseUrl = "http://localhost:3001/products"
 
   constructor(private snackBar: MatSnackBar,
     private http: HttpClient) { }
