@@ -1,19 +1,19 @@
 {
-    "produtos": [
-        {
-            "id": 1,
-            "name": "Inserir Número",
-            "price": 15.0
-        },
-        {
-            "id": 2,
-            "name": "Inserir Nome",
-            "price": 25.0
-        },
-        {
-            "id": 3,
-            "name": "Inserir Nome e Número",
-            "price": 35.0
-        }
-    ]
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Inserir Número",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "name": "Inserir Nome",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "name": "Inserir Nome e Número",
+      "price": 35
+    }
+  ]
 }
