@@ -16,17 +16,17 @@
       "price": 35
     },
     {
-      "name": "Recuperação Número",
+      "name": "Recuperação de Número",
       "price": "30",
       "id": 5
     },
     {
-      "name": "Recuperação Nome",
+      "name": "Recuperação de Nome",
       "price": "35",
       "id": 6
     },
     {
-      "name": "Recuperação Nome e Número",
+      "name": "Recuperação de Nome e Número",
       "price": "60",
       "id": 7
     }
