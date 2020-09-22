@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Inserir Número",
-      "price": "18"
+      "price": "15"
     },
     {
       "id": 2,
@@ -16,9 +16,24 @@
       "price": 35
     },
     {
-      "name": "teste",
-      "price": "125",
-      "id": 4
+      "name": "Recuperação Número",
+      "price": "30",
+      "id": 5
+    },
+    {
+      "name": "Recuperação Nome",
+      "price": "35",
+      "id": 6
+    },
+    {
+      "name": "Recuperação Nome e Número",
+      "price": "60",
+      "id": 7
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 8
     }
   ]
 }
