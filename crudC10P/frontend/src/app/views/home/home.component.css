@@ -2,8 +2,19 @@
     font-size: 3rem;
     font-weight: 300;
     line-height: 1.2;
+    margin: 10px 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .home .subtitle {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
+    margin: 10px 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+}
+
+.home .fundo {
+    display: flex;
+    max-width: 600px;
+    margin: 0px 250px;
 }
